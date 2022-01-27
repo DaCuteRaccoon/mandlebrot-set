@@ -1,5 +1,9 @@
 # [Mandlebrot Set](https://dacuteraccoon.github.io/mandlebrot-set/)
+Please be patient while it loads. It takes from a few seconds to twenty seconds to generate, depending on your computer.
+
 Later on, I will try to make a Mandlebrot set that zooms in - how cool is that?
+<!-- https://upload.wikimedia.org/wikipedia/commons/a/a4/Mandelbrot_sequence_new.gif -->
+![Mandlebrot set zooming in infinitely](mandlebrot.gif)
 ## About the Mandlebrot Set
 - The Mandlebrot set is an example of a [fractal](https://en.wikipedia.org/wiki/Fractal)
 - It's named after [Benoît Mandelbrot](https://en.wikipedia.org/wiki/Benoit_Mandelbrot)
