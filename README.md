@@ -1,1 +1,1 @@
-# mandlebrot-set
+# Mandlebrot Set
